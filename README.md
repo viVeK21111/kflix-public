@@ -18,7 +18,7 @@ Home Screen
 <br><br>
 AI powered chat by multiple LLMs
 <br><br>
-![chat page2](/snapshots/chatf2.png)
+![chat page2](/snapshots/chatf.png)
 <br><br>
 Anime Page
 <br><br>
