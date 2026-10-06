@@ -35,6 +35,10 @@ Genres Page
 Library 
 <br><br>
 ![library page](/snapshots/library1.png)
+<br><br>
+Soundtracks for movies
+<br><br>
+![soundtracks](/snapshots/soundtrack.png)
 <br>
 
 ### Technology stack
