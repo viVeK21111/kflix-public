@@ -65,6 +65,10 @@ Soundtracks for movies
 -> Settings to manage content and account privacy <br>
 -> Availability: one backup server. switches automatically by interceptors through axios <br>
 
+### Discord server
+Join our cinephile community <br>
+Link: https://discord.gg/QCukrapFjs <br>
+
 ### Production deployment
 Frontend server deployed on vercel, backend server deployed on render. <br>
 Custom domain: https://kflix.cc <br> 
