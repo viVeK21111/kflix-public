@@ -12,7 +12,7 @@ authO credentails for google authentication <br>
 
 
 Home Screen
-<br><br>
+<br>
 ![Homescreen](/snapshots/homepage1.png)
 <br><br>
 AI powered chat by various LLMs
