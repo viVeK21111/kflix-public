@@ -12,7 +12,7 @@ authO credentails for google authentication <br>
 
 
 Home Screen
-<br>
+<br><br>
 ![Homescreen](/snapshots/homepage1.png)
 <br><br>
 AI powered chat by various LLMs
@@ -47,7 +47,7 @@ AI powered chat by various LLMs
 -> Availability: one backup server. switches automatically by interceptors through axios <br>
 
 ### More Snap shots
-<br><br>
+
 Anime Page
 <br><br>
 ![Anime](/snapshots/Anime.png)
